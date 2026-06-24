@@ -512,7 +512,7 @@ export default function Home() {
 
             <div className="flex items-center justify-center">
               <div className="relative w-full max-w-sm aspect-square overflow-hidden">
-                <Image src="/featureimage.png" alt="Projeck Mascot" fill className="object-contain w-[100%] h-[100%] scale-[1.1]" />
+                <Image src="/Feature/featureimage.png" alt="Projeck Mascot" fill className="object-contain w-[100%] h-[100%] scale-[1.1]" />
               </div>
             </div>
 
